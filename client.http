@@ -1,0 +1,16 @@
+POST http://localhost:3333/api/links 
+Content-Type: application/json
+
+{
+  "code":"test",
+  "url":"https://rocketseat.com.br"
+}
+
+###
+GET http://localhost:3333/api/links 
+
+###
+GET http://localhost:3333/test
+
+###
+GET http://localhost:3333/api/metrics
