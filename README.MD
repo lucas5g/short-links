@@ -16,7 +16,7 @@ docker compose up -d
 npm i
 ```
 
-## Execultar 
+## Execução 
 ```
 npm run dev
 ```
